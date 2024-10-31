@@ -82,12 +82,13 @@
   </a>
 </p>
 
-
+<!--
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hung-Ta-Chen&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hung-Ta-Chen&theme=algolia&count_private=true" alt="GitHub Streak" />
 </p>
+-->
 
 
 ## Let's Connect!
