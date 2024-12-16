@@ -1,7 +1,7 @@
 # Hi there, I'm Hung-Ta Chen! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=blue&width=435&lines=Software+Engineer;Machine+Learning+Enthusiast;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=blue&width=435&lines=Software+Engineer;AI+Enthusiast;" alt="Typing SVG" />
 </p>
 
 ## About Me
