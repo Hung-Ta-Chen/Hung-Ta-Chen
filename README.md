@@ -7,7 +7,7 @@
 ## About Me
 
 - 🎓 Master's in Statistics (Data Science) from UC Davis
-- 💻 Software Engineer with experience in Python, JavaScript, and more.
+- 💻 Software Engineer with experience in Python, Java, Golang, and more.
 - 🚀 Passionate about AI.
 
 
